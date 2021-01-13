@@ -22,7 +22,7 @@ email      : info@thebargainbroker.com #this is also the email contact forms wil
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : JF
 logo:     #optional, defaults to site title
- # path: assets\img\
+ path: assets/img/BBLogo.PNG
  height: 60 #height in px, defaults to 52px
 
 analytics:
