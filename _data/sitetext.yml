@@ -1,6 +1,6 @@
 header:
     title: Welcome to the Bargain Broker!
-    text: It's Nice To Meet You
+    text: You are on your way to buying and selling for a bargain ! 
     button: Start Here 
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -21,7 +21,7 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+   # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     
 
