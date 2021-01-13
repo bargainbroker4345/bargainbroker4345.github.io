@@ -28,7 +28,6 @@ logo:     #optional, defaults to site title
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
   portfolio:
 
 markdown: kramdown
