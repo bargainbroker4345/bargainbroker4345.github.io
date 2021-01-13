@@ -12,10 +12,10 @@ services:
       - title: "I'm New to This"
         desc: "Read our quick start guide"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Help me Buy"
+      - title: "Help Me Buy"
         desc: "I want to learn more about bargain hunting"
         icon: fas fa-laptop       
-      - title: "Help me Sell"
+      - title: "Help Me Sell"
         desc: "I want to learn more about bargain selling"
         icon: fab fa-markdown
 
