@@ -1,6 +1,6 @@
 header:
     title: Welcome to the Bargain Broker!
-    text: Your trusted source for bargains   
+    text: Your trusted source for everyday bargains   
     button: Start Here 
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -32,7 +32,6 @@ timeline:
 contact:
     title: "Contact Us"
     text: "info@thebargainbroker.com"
-   
     section: contact
     
 footer:
