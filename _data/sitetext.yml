@@ -20,7 +20,7 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
+    title: "Success Stories"
    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     
