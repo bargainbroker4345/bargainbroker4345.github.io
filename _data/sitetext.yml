@@ -6,17 +6,17 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    #text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "I'm New to This"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Help me Buy"
+        desc: "I want to learn more about bargain hunting"
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Help me Sell"
+        desc: "I want to learn more about bargain selling"
         icon: fab fa-markdown
 
 portfolio:
@@ -51,7 +51,7 @@ clients:
 team:
     title: "Meet the Broker"
     text: "Here to assist with all your buying and selling needs "
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+   # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "J"
