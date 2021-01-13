@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "I'm New to This"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Read our quick start guide"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Help me Buy"
         desc: "I want to learn more about bargain hunting"
@@ -28,7 +28,7 @@ portfolio:
 about:
     title: "About Us"
     text: "our story"
-    section: about
+    section: timeline
 
 clients:
     section: clients
