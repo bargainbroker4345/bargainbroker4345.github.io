@@ -12,19 +12,15 @@ services:
       - title: "I'm New to This"
         desc: "Read our quick start guide"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        button: I'm New to This 
-        buttonlink: "#services" # "#{section}" or "URL/page link"
 
       - title: "Help Me Buy"
         desc: "I want to learn more about bargain hunting"
         icon: fas fa-laptop      
-        button: Help Me Buy 
-        buttonlink: "#services" # "#{section}" or "URL/page link"
+        
       - title: "Help Me Sell"
         desc: "I want to learn more about bargain selling"
         icon: fab fa-markdown
-        button: Help Me Sell 
-        buttonlink: "#services" # "#{section}" or "URL/page link"
+       
 
 portfolio:
     title: "Success Stories"
